@@ -7,6 +7,7 @@
 		{
 			"Name": "ActionRoguelike",
 			"Type": "Runtime",
+<<<<<<< HEAD
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine",
@@ -15,6 +16,9 @@
 				"CoreUObject",
 				"DeveloperSettings"
 			]
+=======
+			"LoadingPhase": "Default"
+>>>>>>> parent of 81b5356 (Added SCharacter & Setup Input)
 		}
 	],
 	"Plugins": [
